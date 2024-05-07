@@ -1,6 +1,6 @@
 # Sudoku Solver
 
-This is a Python program to solve Sudoku puzzles.
+This is a Python program to solve Sudoku puzzles, with CSP approach and depth-first search.
 
 ## Installation
 
