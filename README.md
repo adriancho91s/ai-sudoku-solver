@@ -21,13 +21,21 @@ pip install -r requirements.txt
 
 ## Running the program
 
-Before you run the program you must make sure that you have created the `board` file with the sudoku to solve.
+Before you run the program you must make sure that you have created the `board` file with the sudoku to solve, using the format "copy and past" from SudokuMania.com.ar[sudokumania.com.ar].
 
 To run the program, use the following command:
 
 ```bash
 python sudoku.py
 ```
+
+or
+
+```bash
+python sudoku-withoutUi.py
+```
+
+To run without Tkinter.
 
 Make sure you are in the correct directory (sudoku-solver) when you run this command.
 
