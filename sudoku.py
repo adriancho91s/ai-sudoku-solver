@@ -1,10 +1,9 @@
 '''
-AI Sudoku Solver
-Integrantes:  - Adrian Fernando Gaitán
-              - Juan David García Arce
+Integrantes:  - Juan David García Arce
+              - Adrian Fernando Gaitán
               - Maximiliano Giraldo Ocampo
 
-Search: Depth first search.
+Tipo de busqueda: Deep first search.
 '''
 
 #_________________________LIBRERÍAS_________________________#
