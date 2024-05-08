@@ -3,7 +3,7 @@ Integrantes:  - Juan David García Arce
               - Adrian Fernando Gaitán
               - Maximiliano Giraldo Ocampo
 
-Tipo de busqueda: Deep first search.
+Tipo de busqueda: Depth first search.
 '''
 
 #_________________________LIBRERÍAS_________________________#
